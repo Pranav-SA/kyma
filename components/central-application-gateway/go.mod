@@ -7,7 +7,7 @@ require (
 	github.com/kyma-project/kyma/components/application-operator v0.0.0-20220621091145-14285840357e
 	github.com/oklog/run v1.1.0
 	github.com/patrickmn/go-cache v2.1.0+incompatible
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.1
 	github.com/stretchr/testify v1.8.0
 	k8s.io/api v0.24.3
 	k8s.io/apimachinery v0.24.3
