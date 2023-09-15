@@ -14,9 +14,9 @@ require (
 	github.com/onsi/gomega v1.20.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.12.2
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.1
 	go.opencensus.io v0.23.0
-	go.uber.org/zap v1.21.0
+	go.uber.org/zap v1.26.0
 	golang.org/x/oauth2 v0.0.0-20220608161450-d0670ef3b1eb
 	k8s.io/api v0.24.3
 	k8s.io/apimachinery v0.24.3
@@ -64,8 +64,7 @@ require (
 	github.com/prometheus/common v0.32.1 // indirect
 	github.com/prometheus/procfs v0.7.3 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	go.uber.org/atomic v1.9.0 // indirect
-	go.uber.org/multierr v1.6.0 // indirect
+	go.uber.org/multierr v1.10.0 // indirect
 	golang.org/x/crypto v0.0.0-20220331220935-ae2d96664a29 // indirect
 	golang.org/x/net v0.0.0-20220425223048-2871e0cb64e4 // indirect
 	golang.org/x/sys v0.0.0-20220422013727-9388b58f7150 // indirect
