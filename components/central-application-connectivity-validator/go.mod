@@ -3,7 +3,7 @@ module github.com/kyma-project/kyma/components/central-application-connectivity-
 go 1.17
 
 require (
-	github.com/gorilla/mux v1.8.0
+	github.com/gorilla/mux v1.8.1
 	github.com/kyma-project/kyma/common/logging v0.0.0-20220728110448-e31467aff6de
 	github.com/kyma-project/kyma/components/application-operator v0.0.0-20220621091145-14285840357e
 	github.com/oklog/run v1.1.0
